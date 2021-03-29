@@ -1,6 +1,9 @@
 # env files #
 ###################
 *.env
+# editor files #
+###################
+*.vscode
 
 # gen files and executable #
 ###################
