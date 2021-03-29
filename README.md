@@ -34,15 +34,15 @@ This homework has utilised two APIs:
 ---
 ## Required Tasks Completed
 
-- [x]  #### README file
-- [x]  #### Part 1 - Personal Finance Planner
-- [x]  #### Collect Crypto Prices Using the `requests` Library
-- [x]  #### Collect Investments Data Using Alpaca: `SPY` (stocks) and `AGG` (bonds)
-- [x]  #### Savings Health Analysis
-- [x]  #### Part 2 - Retirement Planning
-- [x]  #### Monte Carlo Simulation
-- [x]  #### Retirement Analysis
-- [x]  #### Optional Challenge - Early Retirement - Less years
-- [x]  #### Optional Challenge - Early Retirement - Riskier portfolio
+- [x]  README file
+- [x]  Part 1 - Personal Finance Planner
+- [x]  Collect Crypto Prices Using the `requests` Library
+- [x]  Collect Investments Data Using Alpaca: `SPY` (stocks) and `AGG` (bonds)
+- [x]  Savings Health Analysis
+- [x]  Part 2 - Retirement Planning
+- [x]  Monte Carlo Simulation
+- [x]  Retirement Analysis
+- [x]  Optional Challenge - Early Retirement - Less years
+- [x]  Optional Challenge - Early Retirement - Riskier portfolio
 
 
