@@ -17,9 +17,9 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 
 ## Submission Files
 
-* [Personal Finance Planner code](Submission_Code/financial-planner.ipynb)
+* [Personal Finance Planner code](https://github.com/morjaria/UnitFiveHomework/tree/main/Submission_Code/financial-planner.ipynb)
 
-* [MCForecastTools toolkit](Submission_Code/MCForecastTools.py)
+* [MCForecastTools toolkit](https://github.com/morjaria/UnitFiveHomework/tree/main/Submission_Code/MCForecastTools.py)
 
 ---
 
